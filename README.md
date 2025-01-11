@@ -11,9 +11,9 @@
 			<th>Description</th>
 		</tr>
 		<tr>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>Online Resume</td>
+			<td>><a href="https://applyya.com/uk/editor/" target="_blank">https://applyya.com/uk/editor/</a></td>
+			<td>Онлайн беспланый сервис генерации резбме (3 шаблона)</td>
 		</tr>
 		<tr>
 			<td></td>
