@@ -3,7 +3,7 @@
 
 
 <center> 
-	<table class="iksweb">
+	<table width="100%">
 	<tbody>
 		<tr>
 			<th></th>
