@@ -12,7 +12,7 @@
 		</tr>
 		<tr>
 			<td>Online Resume</td>
-			<td>><a href="https://applyya.com/uk/editor/" target="_blank">https://applyya.com/uk/editor/</a></td>
+			<td>><a href="https://applyya.com/uk/editor/" target="blank_">https://applyya.com/uk/editor/</a></td>
 			<td>Онлайн беспланый сервис генерации резбме (3 шаблона)</td>
 		</tr>
 		<tr>
