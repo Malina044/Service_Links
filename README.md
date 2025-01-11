@@ -6,9 +6,9 @@
 	<table width="100%">
 	<tbody>
 		<tr>
-			<th></th>
-			<th></th>
-			<th></th>
+			<th>Name Service</th>
+			<th>Link/URL</th>
+			<th>Description</th>
 		</tr>
 		<tr>
 			<td></td>
