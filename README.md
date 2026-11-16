@@ -31,6 +31,16 @@
 			<td>EVE — Емульоване віртуальне середовище для фахівців з мереж, безпеки та DevOps</td>
 		</tr>
 		<tr>
+			<td>iVentoy</td>
+			<td>https://www.iventoy.com/</td>
+			<td>PXE Boot Image Server</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
 			<td></td>
 			<td></td>
 			<td></td>
